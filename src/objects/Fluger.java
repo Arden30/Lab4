@@ -2,8 +2,8 @@ package objects;
 
 import abstracts.Things;
 
-public class Flugel extends Things {
-    public Flugel(String name) {
+public class Fluger extends Things {
+    public Fluger(String name) {
         super(name);
     }
 }

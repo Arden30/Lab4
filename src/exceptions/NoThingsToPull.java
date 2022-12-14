@@ -1,7 +1,7 @@
 package exceptions;
 
-public class NoOneIsPulled extends Exception {
-    public NoOneIsPulled(String message) {
+public class NoThingsToPull extends Exception {
+    public NoThingsToPull(String message) {
         super(message);
     }
 }

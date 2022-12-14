@@ -1,2 +1,6 @@
-package abstracts;public class Catchable {
+package abstracts;
+
+// может ли быть объект пойманным
+public interface Catchable{
+    void beingCatched(Thingsable thing);
 }
